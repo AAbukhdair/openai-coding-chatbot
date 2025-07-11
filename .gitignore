@@ -1,8 +1,4 @@
-cat << 'EOF' > .gitignore
 __pycache__/
 *.py[cod]
 .venv/
 data/
-CUB_200_2011*
-bird_classifier.pkl
-EOF
